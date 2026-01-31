@@ -5,7 +5,7 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yazan.damati) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yazanraldamati) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yazan.damati6@gmail.com) 
+[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yazan.damati6@gmail.com) 
 [![Codeforces](https://img.shields.io/badge/Codeforces-000000?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/yazannn1919)
 
 # 💻 Tech Stack:
